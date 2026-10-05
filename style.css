@@ -22,6 +22,8 @@ h1{
    color:black;
    font-family:Times New Roman
      }
-body{
-  background: linear-gradient(135deg, #0b1f3a, #1f3c88);
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #0b1f3a, #1f3c88);
+    color: white;
 }
