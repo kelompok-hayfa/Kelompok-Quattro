@@ -18,5 +18,5 @@ h1{
    font-family:Times New Roman
      }
 body{
-  background-color:green;
+  background: linear-gradient(135deg, #0b1f3a, #1f3c88);
 }
