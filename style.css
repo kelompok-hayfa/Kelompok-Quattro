@@ -27,3 +27,11 @@ body {
     background: linear-gradient(135deg, #0b1f3a, #1f3c88);
     color: white;
 }
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 12px;
+    backdrop-filter: blur(8px);
+}
