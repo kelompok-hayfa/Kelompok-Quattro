@@ -2,6 +2,27 @@ html {
   height: 100%;
 }
 
+* {
+  color: white;
+}
+
+header {
+  ul {
+    list-style-type: none;
+    padding: 16px;
+  }
+  
+  li {
+    display: inline;
+    padding-left: 4px solid gray;
+    padding-right: 4px solid gray;
+  }
+}
+
+body {
+  background-color:blue;
+}
+
 h1 {
   text-align: center;
   font-weight: bold;
@@ -12,19 +33,10 @@ p {
   size: 20px;
 }
 
-body {
-  background-color:blue;
+.content {
+  text-align: center;
 }
 
-header {
-  ul {
-    list-style-type: none;
-    padding: 16px;
-  }
-
-  li {
-    display: inline;
-    padding-left: 4px solid gray;
-    padding-right: 4px solid gray;
-  }
+a {
+  color: red;
 }
